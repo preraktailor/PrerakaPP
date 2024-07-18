@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1015417738469",
-    "project_id": "chatjp-61f56",
-    "storage_bucket": "chatjp-61f56.appspot.com"
+    "project_number": "430322340250",
+    "project_id": "chatjp-d3dd7",
+    "storage_bucket": "chatjp-d3dd7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1015417738469:android:41253b217f781840a1f00c",
+        "mobilesdk_app_id": "1:430322340250:android:43d9e6f9f8cb2a7e63ea23",
         "android_client_info": {
           "package_name": "com.example.chatjp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDusMvMMeK2ZT-_oz36qFoj8cR5QYUIufQ"
+          "current_key": "AIzaSyBa1vN6kDnBT0TSW9PrKqa6_vVKbNmW1Nc"
         }
       ],
       "services": {
